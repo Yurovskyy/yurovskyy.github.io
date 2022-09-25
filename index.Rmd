@@ -1,0 +1,39 @@
+---
+title: "Yuri Fonseca Lopes"
+image: "yuri.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lyfmeca/"
+  - label: GitHub
+    url: "https://github.com/Yurovskyy"
+  - label: Email
+    url: "mailto:yuriprogammer@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Graduando em Engenharia Mecatrônica (2021) pela UFSJ-CAP. Realiza e busca novas iniciações
+científicas, sendo uma já concluida sobre "Transformadas rápidas de Fourier e algumas aplicações". Gosta de aprender coisas novas e de transformá-las através da progração, com
+interesse em Inteligência artificial, Machine learning, metaprogramação e simulações. Tem
+conhecimento nas seguintes linguagens de programação: Rust, Dart, R, Java, Python, C++, JS,
+HTML, CSS.
+
+*"Tenho mais medo da mediocridade que da morte"*
+
+## Educação
+
+**Universidade Federal de São João del-Rei** | Ouro Branco, MG
+
+Bacharel | Engenharia Mecatrônica | Setembro 2021 - Setembro 2026
+
+**Luana Arquino's Institute of VIP English Course** | Unaí, MG
+
+Curso de Idioma Inglês Fluente | Junho 2018 - Maio 2020
+
+## Experiência
+
+**Tristate Consultoria** | Acessor comercial | 2022 - ??
+
+**CapCode** | Programador Competitivo | 2021 - 2022
