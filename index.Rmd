@@ -11,29 +11,47 @@ links:
 output:
   postcards::trestles
 ---
- 
-## Bio
 
-Graduando em Engenharia Mecatrônica (2021) pela UFSJ-CAP. Realiza e busca novas iniciações
-científicas, sendo uma já concluida sobre "Transformadas rápidas de Fourier e algumas aplicações". Gosta de aprender coisas novas e de transformá-las através da progração, com
-interesse em Inteligência artificial, Machine learning, metaprogramação e simulações. Tem
-conhecimento nas seguintes linguagens de programação: Rust, Dart, R, Java, Python, C++, JS,
-HTML, CSS.
+## Sobre Mim
+
+Estudante e Autodidata. Gosto de aprender coisas novas e de tranformá-las através da programação. Tenho a paixão por Mecatrônica desde o ensino médio, desde então venho me desenvolvendo e procurando pesquisas científicas no tópico. Tenho interesse em inteligência artificial, aprendizado de máquina, simulações, automobilística, motores elétricos/híbridos e robótica.
 
 *"Tenho mais medo da mediocridade que da morte"*
 
 ## Educação
 
-**Universidade Federal de São João del-Rei** | Ouro Branco, MG
+**2021-202? UFSJ - Campus Alto Paraopeba** | Ouro Branco, MG
+Graduando em Engenharia Mecatrônica
+- Participei do grupo de extensão CapCode durante 2021-2022
+- Realizei uma iniciação científica sobre "Transformadas rápidas de Fourier"
 
-Bacharel | Engenharia Mecatrônica | Setembro 2021 - Setembro 2026
+**2016-2020 LAIVEC - Escola de Inglês** | Unaí, MG
+Inglês Avançado
 
-**Luana Arquino's Institute of VIP English Course** | Unaí, MG
+**2021-202? Cebrac Cursos** | Patos de Minas, MG
+Manutenção e reparação de celulares e computadores
 
-Curso de Idioma Inglês Fluente | Junho 2018 - Maio 2020
+**2014-2018 Capacitar Cursos** | Unaí, MG
+Operador de computador
 
 ## Experiência
 
-**Tristate Consultoria** | Acessor comercial | 2022 - ??
+**2018-2021 Editor de Vídeo** | Autônomo
+- Tive demandas esporádias que foram entregues com eficiência e precisão
+- Participei ativamente da comunicação com o time para melhorar o relacionamento de trabalho
 
-**CapCode** | Programador Competitivo | 2021 - 2022
+**2022-202? Tristate Consultoria** | Acessor comercial
+Tenho como principal função a precificação dos projetos, o gerenciamento da prospecção ativa e
+orçamentação de equipamentos para a prestação de serviço e treinamento da equipe. Em relação a
+outros setores, auxilio no desenvolvimento e prototipagem dos projetos.
+
+## Skills
+
+### Soft 
+Excelente Comunicação , Organização, Auto-Motivação, Resolução de Problemas, Teamwork e Colaboração, Análise e Pensamento Crítico
+
+### Hard
+Sony Vegas, Adobe Premier, Pacote Office, AutoCAD, Inventor, Arduino, Latex
+
+### Programação
+Rust, Dart, R, Java, Python, C++, JS
